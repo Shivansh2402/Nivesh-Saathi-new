@@ -1,0 +1,2 @@
+--log-level=DEBUG
+--access-logfile=log/access.log
